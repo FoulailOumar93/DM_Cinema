@@ -1,0 +1,14 @@
+C:\Users\foula\source\repos\dm_cinema\dm_cinema\bin\Debug\net6.0\dm_cinema.exe
+C:\Users\foula\source\repos\dm_cinema\dm_cinema\bin\Debug\net6.0\dm_cinema.deps.json
+C:\Users\foula\source\repos\dm_cinema\dm_cinema\bin\Debug\net6.0\dm_cinema.runtimeconfig.json
+C:\Users\foula\source\repos\dm_cinema\dm_cinema\bin\Debug\net6.0\dm_cinema.dll
+C:\Users\foula\source\repos\dm_cinema\dm_cinema\bin\Debug\net6.0\dm_cinema.pdb
+C:\Users\foula\source\repos\dm_cinema\dm_cinema\obj\Debug\net6.0\dm_cinema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\foula\source\repos\dm_cinema\dm_cinema\obj\Debug\net6.0\dm_cinema.AssemblyInfoInputs.cache
+C:\Users\foula\source\repos\dm_cinema\dm_cinema\obj\Debug\net6.0\dm_cinema.AssemblyInfo.cs
+C:\Users\foula\source\repos\dm_cinema\dm_cinema\obj\Debug\net6.0\dm_cinema.csproj.CoreCompileInputs.cache
+C:\Users\foula\source\repos\dm_cinema\dm_cinema\obj\Debug\net6.0\dm_cinema.dll
+C:\Users\foula\source\repos\dm_cinema\dm_cinema\obj\Debug\net6.0\refint\dm_cinema.dll
+C:\Users\foula\source\repos\dm_cinema\dm_cinema\obj\Debug\net6.0\dm_cinema.pdb
+C:\Users\foula\source\repos\dm_cinema\dm_cinema\obj\Debug\net6.0\dm_cinema.genruntimeconfig.cache
+C:\Users\foula\source\repos\dm_cinema\dm_cinema\obj\Debug\net6.0\ref\dm_cinema.dll
